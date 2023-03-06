@@ -54,5 +54,5 @@ Use modern JavaScript standards while coding.
 Use Promises, async/await wherever possible to avoid callback hell and unreadable code
 Write clean code, add comments wherever needed. Remember, your reporting manager would be reading and evaluating your code
 Write a detailed spec about the libraries and technologies used
-Lastly, write a note on areas where your code can be improved
+Lastly, write a note on areas where your code can be improved.
 
