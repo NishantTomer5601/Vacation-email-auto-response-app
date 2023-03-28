@@ -27,7 +27,7 @@ The app should send replies to Emails that have no prior replies
 The app should add a Label to the email and move the email to the label
 * After sending the reply, the email should be tagged with a label in Gmail. Feel free to name the label anything.
 
-* If the label is not created already, you’ll need to create it. Use Google’s APIs to accomplish this
+* If the label is not created already, you’ll need to create it. Use Google’s APIs to accomplish this.
 
 The app should repeat this sequence of steps 1-3 in random intervals of 45 to 120 seconds
 
