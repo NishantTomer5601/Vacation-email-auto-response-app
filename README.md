@@ -6,7 +6,7 @@ This repo is being made as a part of Listed's online assessment round.
 
 Article type: Project
 Vacation email auto-response app
-App that you would need to build:
+App that you would need to build::
 
 You have to write a Node.js based app that is able to respond to emails sent to your Gmail mailbox while you’re out on a vacation.
 
