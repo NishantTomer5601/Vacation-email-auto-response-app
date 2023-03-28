@@ -1,6 +1,6 @@
 # Vacation-email-auto-response-app.
 
-This repo is being made as a part of Listed's online assessment round.
+This repo is being made as a part of Listed's online assessment round..
 
 # Rules stated by the Company for the assessment are as follows:
 
