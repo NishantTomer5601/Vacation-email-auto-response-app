@@ -1,4 +1,4 @@
-# Vacation-email-auto-response-app.
+# Vacation-email-auto-response-app.....
 
 This repo is being made as a part of Listed's online assessment round.
 
